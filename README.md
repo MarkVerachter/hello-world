@@ -1,5 +1,5 @@
 # hello-world
-Test
-Tutorial
-Does it work?
-Well I guess so.. :D
+Test \n
+Tutorial \n
+Does it work? \n
+Well I guess so.. :D \n
